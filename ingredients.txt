@@ -1,9 +1,5 @@
 * 0.5 tbsp cilantro 
 * 1 avocados
-* 1 lime
-<<<<<<< HEAD
+* 1.5 lime
 * 2 tsp salt
-=======
-* 0.5 tsp salt
->>>>>>> dislike-salt
 * 1/2 onion
