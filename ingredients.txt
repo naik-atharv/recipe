@@ -1,5 +1,10 @@
 * 0.5 tbsp cilantro 
 * 1 avocados
+<<<<<<< HEAD
 * 1.5 lime
 * 2 tsp salt
+=======
+* 2 lime
+* 0.5 tsp salt
+>>>>>>> 993914b (lime lover)
 * 1/2 onion
